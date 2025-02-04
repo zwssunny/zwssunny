@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain, digital currency, project management and artificial intelligence
 - 🌱 I’m currently learning blockchain technology and artificial intelligence technology
 - 💞️ I’m looking to collaborate on develop blockchain and artificial intelligence applications
-- 📫 Reach me zhanwsvip@gmail.com
+- 📫 Reach me zhanwshk@gmail.com
 
 <!---
 zwssunny/zwssunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
